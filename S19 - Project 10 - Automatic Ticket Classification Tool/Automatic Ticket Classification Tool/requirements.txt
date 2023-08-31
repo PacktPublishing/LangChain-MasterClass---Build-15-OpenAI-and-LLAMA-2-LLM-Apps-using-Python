@@ -1,0 +1,9 @@
+langchain
+streamlit
+openai
+tiktoken
+python-dotenv
+pinecone-client
+pypdf
+joblib
+pandas

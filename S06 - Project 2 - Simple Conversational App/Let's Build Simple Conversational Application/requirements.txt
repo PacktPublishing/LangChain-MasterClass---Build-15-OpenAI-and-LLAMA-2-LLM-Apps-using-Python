@@ -1,0 +1,5 @@
+streamlit
+langchain
+openai
+streamlit-chat
+python-dotenv

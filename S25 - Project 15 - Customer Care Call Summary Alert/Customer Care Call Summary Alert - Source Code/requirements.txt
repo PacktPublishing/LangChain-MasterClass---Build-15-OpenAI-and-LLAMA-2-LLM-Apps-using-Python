@@ -1,0 +1,4 @@
+ffmpeg-python
+langchain
+whisper
+streamlit
