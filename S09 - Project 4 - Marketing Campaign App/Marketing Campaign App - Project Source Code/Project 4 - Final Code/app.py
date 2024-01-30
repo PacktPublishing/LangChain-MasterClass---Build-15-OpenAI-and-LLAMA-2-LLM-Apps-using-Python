@@ -148,7 +148,7 @@ tasktype_option = st.selectbox(
 
 age_option= st.selectbox(
     'For which age group?',
-    ('Kid', 'Adult', 'senior Citizen'),key=2)
+    ('Kid', 'Adult', 'Senior Citizen'),key=2)
 
 numberOfWords= st.slider('Words limit', 1, 200, 25)
 
